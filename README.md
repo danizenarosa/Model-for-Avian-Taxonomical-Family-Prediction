@@ -19,7 +19,7 @@ Preliminary exploratory data analysis:
 
 Methods: 
 
-In this investigation, we will be using the columns; beak length, beak width, beak depth, tarsus length, wing length, kipps distance, hand-wing index, tail length, mass as the dimensions of the bird to classify the family that the invdividual belongs in. We will peform cross-validation to evaluate the performance of the model and to identify the k nearest neighbors value that best reflects the whole dataset. One way that we will visualize the results is through a set of plots that contain
+In this investigation, we will be using the columns; beak length, beak width, beak depth, tarsus length, wing length, kipps distance, hand-wing index, tail length, mass as the dimensions of the bird to classify the family that the invdividual belongs in. We will perform cross-validation to evaluate the performance of the model and to identify the k nearest neighbors value that best reflects the whole dataset. One way that we will visualize the results is through a set of plots that contain specific characterstics and their resulting families, for example, beak length vs family.
 
 
 
@@ -27,4 +27,4 @@ In this investigation, we will be using the columns; beak length, beak width, be
 Expected outcomes and significance:
 We expect to find a strong correlation between bird dimensions and their family, even across different species. Should the dimensions themselves not have strong correlation with their families, we expect the ratios of these dimensions should also show a strong relationship between species of the same family. From this we will be able to predict the family of unknown birds based only on their dimensions. 
 If non-experts come across new bird species, it could be vital to be able to identify the bird's close biological relatives (i.e the bird's family on the tree of life) for scientists to identify important biological traits without being present to study them. As mentioned above, it is likely evidence will only be able to exist in the form of an image and so more specific behavioural data may not be able to be taken. 
-If our hypothesis is proven, then it could lead to questions about how or why certain species, despite living on opposite sides of the world, develop similar features.
+If our hypothesis is proven, then it could lead to questions about how or why certain species, despite living on opposite sides of the world, develop similar characteristics.
