@@ -1,4 +1,4 @@
-# dsci-100-project_template
+# Model for Avian Taxonomical Family Prediction
 Template project repository for DSCI-100
 
 project creation date: Feb 8th, 2024
